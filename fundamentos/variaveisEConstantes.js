@@ -13,4 +13,4 @@ numeross = 7
 console.log(numeros,numeross, numerosss)
 
 numeros = 300
-numeross = 450
+numeross = 400
