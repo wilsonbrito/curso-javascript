@@ -11,3 +11,6 @@ var numeros = 6
 numeross = 7
 
 console.log(numeros,numeross, numerosss)
+
+numeros = 300
+numeross = 400
