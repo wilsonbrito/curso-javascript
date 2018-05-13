@@ -10,5 +10,7 @@ const avaliacao2 = 8.888
 const total = avaliacao1 * peso1 + avaliacao2 * peso2
 const media = total / (peso1 + peso2)
 
+const binario = 2
+
 console.log(media.toFixed(2))
-console.log(media.toString())
+console.log(binario.toString(2))
