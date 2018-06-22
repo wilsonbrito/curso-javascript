@@ -7,6 +7,7 @@ const numerosss = 5 //atribuição do valor 5 ao identificador chamado "numeross
 * já com o var, nada acontece.
 */
 
+
 var numeros = 6
 numeross = 7
 
