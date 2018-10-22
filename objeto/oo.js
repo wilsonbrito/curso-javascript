@@ -8,9 +8,9 @@ objeto = {
     valor1,
     valor2,
     valor3,
-    processamento(){
+    processamento() {
         //...
-    }   
+    }
 }
 
 objeto.processamento()
@@ -18,5 +18,6 @@ objeto.processamento()
 //Principios importantes:
 // 1 - abstração
 // 2 - encapsulamento
-// 3 - herançca (prototype)
-// 4 - 
+// 3 - herança (prototype) "É um (fusca é um carro)"
+// 4 - polimorfismo (multiplas formas)
+
